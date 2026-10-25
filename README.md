@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Awesome-Enterprise-Content-Management-System-CMS
-
-=======
 <div align="center">
 
 ![Awesome Enterprise Content Management Systems](assets/banner.svg)
