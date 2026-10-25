@@ -217,3 +217,8 @@ If you found this curated directory of Enterprise Content Management Systems (CM
 - **Disclaimer**: This is an independent, community-curated research directory and does not constitute an endorsement of any commercial platform or vendor. Vendor pricing tiers, licensing terms, and API limits are subject to change by respective companies.
 - **License**: Released under the [MIT License](LICENSE).
 >>>>>>> 70148c4ca07d1a7802c9241ac1b142fc50fb562d
+Copy-Item README.md README.md.bak -Force
+# Manual step: replace SaaS and Open-Source sections with content above
+git add README.md
+git commit -m "docs: add enterprise CMS pricing (Contentful Basic $300/mo, Contentstack free tier, Drupal TCO) and open-source Drupal/WordPress/Strapi/Directus"
+git push
