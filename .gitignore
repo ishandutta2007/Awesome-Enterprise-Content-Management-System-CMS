@@ -1,8 +1,10 @@
 *.bak
 *.bk
 *.env
+*.json
 .cache
 __pycache__/
 contributors.txt
+node_modules
 temp_repo_clone
 ishandutta2007_Awesome-Enterprise-Content-Management-System-CMS_stargazers.csv

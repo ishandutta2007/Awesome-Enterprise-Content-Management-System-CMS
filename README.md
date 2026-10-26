@@ -181,7 +181,11 @@ Contributions are warmly welcomed! Help keep this directory accurate, up to date
 1. 🍴 **Fork the Repository** on GitHub.
 2. 🌿 **Create a Feature Branch** (`git checkout -b feature/add-cms-or-platform`).
 3. 📝 **Update [README.md](README.md)** with factual pricing tiers, free tier limits, and live Stars_Badges.
+<<<<<<< HEAD
 4. 🔍 **Verify Sorting**: Ensure SaaS tables remain sorted by company size/valuation descending, and Open-Source tables remain sorted by GitHub Stars_Count descending.
+=======
+4. 🔍 **Verify Sorting**: Ensure SaaS tables remain sorted by company size/valuation descending, and Open-Source tables remain sorted by GitHub_Stars_Count descending.
+>>>>>>> f249fe4ec2b7c4f691789fffd48f28414e83c9c9
 5. 🚀 **Submit a Pull Request** with a concise description of your changes.
 
 ---
@@ -213,7 +217,11 @@ If you found this curated directory of Enterprise Content Management Systems (CM
 - **Disclaimer**: This is an independent, community-curated research directory and does not constitute an endorsement of any commercial platform or vendor. Vendor pricing tiers, licensing terms, and API limits are subject to change by respective companies.
 - **License**: Released under the [MIT License](LICENSE).
 
+<<<<<<< HEAD
 ## Star History
+=======
+## ⭐ Star History
+>>>>>>> f249fe4ec2b7c4f691789fffd48f28414e83c9c9
 
 <a href="https://star-history.com/#ishandutta2007/Awesome-Enterprise-Content-Management-System-CMS&Timeline" align="center">
   <picture>

@@ -174,7 +174,7 @@
     <g transform="translate(300, 252)">
       <rect width="600" height="42" rx="21" fill="#0f172a" fill-opacity="0.85" stroke="#334155" stroke-width="1" />
       <text x="300" y="26" text-anchor="middle" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">
-        ✨ 15+ Enterprise SaaS Platforms &nbsp;•&nbsp; 🌟 25+ Open-Source Repositories &nbsp;•&nbsp; 📊 Market Dynamics
+        ✨ 15+ Enterprise SaaS Platforms &#160;•&#160; 🌟 25+ Open-Source Repositories &#160;•&#160; 📊 Market Dynamics
       </text>
     </g>
   </g>
