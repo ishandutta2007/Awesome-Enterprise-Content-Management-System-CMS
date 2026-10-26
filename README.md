@@ -182,7 +182,7 @@ Contributions are warmly welcomed! Help keep this directory accurate, up to date
 2. 🌿 **Create a Feature Branch** (`git checkout -b feature/add-cms-or-platform`).
 3. 📝 **Update [README.md](README.md)** with factual pricing tiers, free tier limits, and live Stars_Badges.
 <<<<<<< HEAD
-4. 🔍 **Verify Sorting**: Ensure SaaS tables remain sorted by company size/valuation descending, and Open-Source tables remain sorted by GitHub Stars_Count descending.
+4. 🔍 **Verify Sorting**: Ensure SaaS tables remain sorted by company size/valuation descending, and Open-Source tables remain sorted by GitHub_Stars_Count descending.
 =======
 4. 🔍 **Verify Sorting**: Ensure SaaS tables remain sorted by company size/valuation descending, and Open-Source tables remain sorted by GitHub_Stars_Count descending.
 >>>>>>> f249fe4ec2b7c4f691789fffd48f28414e83c9c9
